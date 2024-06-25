@@ -8,3 +8,5 @@
 
 04.[promise异步编程](https://github.com/liliangCS/cpp_code/blob/main/promise%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.cpp)
 
+05.[packaged_task异步编程](https://github.com/liliangCS/cpp_code/blob/main/packaged_task%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.cpp)
+
