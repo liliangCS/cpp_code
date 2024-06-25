@@ -10,3 +10,5 @@
 
 05.[packaged_task异步编程](https://github.com/liliangCS/cpp_code/blob/main/packaged_task%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.cpp)
 
+06.[原子操作](https://github.com/liliangCS/cpp_code/blob/main/%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C.cpp)
+
