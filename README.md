@@ -6,3 +6,5 @@
 
 03.[async异步编程](https://github.com/liliangCS/cpp_code/blob/main/async%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.cpp)
 
+04.[promise异步编程](https://github.com/liliangCS/cpp_code/blob/main/promise%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.cpp)
+
