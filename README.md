@@ -12,3 +12,5 @@
 
 06.[原子操作](https://github.com/liliangCS/cpp_code/blob/main/%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C.cpp)
 
+07.[饿汉单例模式](https://github.com/liliangCS/cpp_code/blob/main/%E9%A5%BF%E6%B1%89%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.cpp)
+
