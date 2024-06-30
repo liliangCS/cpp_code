@@ -16,3 +16,5 @@
 
 08.[懒汉单例模式](https://github.com/liliangCS/cpp_code/blob/main/%E6%87%92%E6%B1%89%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.cpp)
 
+09.[类A的成员函数设置为类B的一个字段]()
+
